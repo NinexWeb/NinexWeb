@@ -1,5 +1,5 @@
 👨‍💻 Programador de Chat Preguiçoso
-🛋️ "Codando com 50% de esforço e 100% de criatividade!"
+🛋️ "Codando com 10% de esforço e 100% de criatividade!"
 
 Oi, eu sou [Seu Nome], o programador que prefere passar o mínimo de tempo possível no código, mas ainda assim entrega resultados incríveis. Quando não estou escrevendo scripts rápidos para bots ou criando APIs, você pode me encontrar estudando como otimizar minha produtividade... ou talvez só tentando dormir um pouco mais. 😴
 
