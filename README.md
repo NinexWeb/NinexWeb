@@ -1,4 +1,4 @@
-👨‍💻 Programador de Chat Preguiçoso
+👨‍💻 Programador Preguiçoso
 🛋️ "Codando com 10% de esforço e 90% de IA!"
 
 Oi, eu sou Ninex, o programador que prefere passar o mínimo de tempo possível no código, mas ainda assim entrega resultados incríveis. Quando não estou escrevendo scripts rápidos para bots ou criando APIs, você pode me encontrar estudando como otimizar minha produtividade com IA... ou talvez só tentando dormir um pouco mais. 😴
