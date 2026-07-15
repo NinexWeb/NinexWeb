@@ -1,19 +1,42 @@
-👨‍💻 Programador Preguiçoso
-🛋️ "Codando com 10% de esforço e 90% de IA!"
+👋 Olá! Eu sou o Bruno (Ninex)
 
-Oi, eu sou Ninex, o programador que prefere passar o mínimo de tempo possível no código, mas ainda assim entrega resultados incríveis. Quando não estou escrevendo scripts rápidos para bots ou criando APIs, você pode me encontrar estudando como otimizar minha produtividade com IA... ou talvez só tentando dormir um pouco mais. 😴
+"Se existe uma forma de automatizar, eu provavelmente já pensei nela."
 
-⚡ Especialidades:
+Sou desenvolvedor apaixonado por Python, automação e Inteligência Artificial. Gosto de criar ferramentas que resolvem problemas reais, eliminam tarefas repetitivas e economizam tempo.
 
-Bots que respondem sem precisar de esforço
-Automatizando tarefas chatas (porque quem tem tempo para isso?)
-Criando códigos com uma pitada de humor e um pouco de IA (porque programar é divertido, né? mas com IA fica melhor ainda)
-🔧 Tecnologias que uso:
+Atualmente estou desenvolvendo o EmpregoBot AI, um assistente inteligente de carreira capaz de analisar currículos, montar um perfil profissional e encontrar automaticamente vagas compatíveis em diversos portais de emprego.
 
-Python (minha linguagem favorita, porque é tão preguiçosa quanto eu)
-JavaScript (me faz parecer mais ativo do que sou)
-HTML 
-GitHub Actions (para que você nunca precise de esforço ao automatizar seu trabalho)
-⚠️ Aviso: Este perfil é 90% humor e 10% código real. Se você está procurando código otimizado e sem erros... bem, talvez eu precise dar uma descansada antes de fazer isso. 😅
+🚀 O que gosto de desenvolver
+🤖 Bots
+🕷️ Web Scraping
+⚡ Automações
+🧠 Inteligência Artificial
+🖥️ Aplicações Desktop
+🌐 APIs
+📊 Dashboards
+🔍 Engenharia Reversa
+🛠️ Tecnologias
+Python
+Playwright
+SQLAlchemy
+SQLite
+FastAPI
+CustomTkinter
+JavaScript
+HTML
+CSS
+Git
+GitHub Actions
+📌 Projeto principal
+🤖 EmpregoBot AI
 
-Vamos criar algo sem suar a camisa! 🚀
+Um Assistente Inteligente de Carreira que:
+
+Analisa currículos automaticamente
+Monta um perfil profissional completo
+Pesquisa vagas em múltiplos portais
+Organiza milhares de vagas em banco de dados
+Atualiza resultados em tempo real
+Futuramente utilizará IA para calcular compatibilidade entre candidato e vaga
+
+"Meu objetivo não é escrever mais código. É escrever menos código que resolve mais problemas."
